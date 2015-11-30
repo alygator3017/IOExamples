@@ -8,8 +8,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
- *
- * @author Alyson
+ * File Service structure for handling file data.
+ * This is the base class for the File Service class structure.
+ * 
+ * @author ajSchmidt-Zimmel
  */
 public class FileService {
     //build code bottom up
