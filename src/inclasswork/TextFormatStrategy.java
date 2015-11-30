@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  *
- * @author Alyson
+ * @author ajSchmidt-Zimmel
  */
 public interface TextFormatStrategy {
 

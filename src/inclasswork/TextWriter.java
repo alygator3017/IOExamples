@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  *
- * @author Alyson
+ * @author ajSchmidt-Zimmel
  */
 public class TextWriter {
 

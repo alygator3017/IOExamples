@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  *
- * @author Alyson
+ * @author ajSchmidt-Zimmel
  */
 public class FileServiceTest {
     public static void main(String[] args) throws IOException {

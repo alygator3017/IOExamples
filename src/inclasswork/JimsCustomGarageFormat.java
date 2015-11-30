@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  *
- * @author Alyson
+ * @author ajSchmidt-Zimmel
  */
 public class JimsCustomGarageFormat implements TextFormatStrategy {
 

@@ -10,7 +10,7 @@ import java.util.Set;
 
 /**
  *
- * @author Alyson
+ * @author ajSchmidt-Zimmel
  */
 public class GarageTotalsFormatter implements TextFormatStrategy{
 
